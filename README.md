@@ -1,4 +1,6 @@
-# Jixone AI
+# Jixone AI:-
+
+https://jixone-ai.vercel.app/
 
 Jixone AI is simple [perplexity.ai](https://www.perplexity.ai/) clone. Use the code for whatever you like! :)
 
@@ -23,11 +25,11 @@ Get OpenAI API key [here](https://openai.com/api/).
 
 ## Running Locally
 
-1. Clone repo
+1. Clone repo:=
 
 git clone https://github.com/jasmeet78/jixoneai.git
 
-2. Install dependencies
+2. Install dependencies:-
 
 npm i
 
@@ -35,6 +37,7 @@ npm i
 
 npm run dev
 
+https://jixone-ai.vercel.app/
 
 ## Improvement Ideas
 
@@ -47,5 +50,7 @@ Here are some ideas for how to improve Jixone AI:
 - [ ] Train your own model to use for answer synthesis
 
 ## Credits
+
+https://jixone-ai.vercel.app/
 
 Jasmeet sethi
